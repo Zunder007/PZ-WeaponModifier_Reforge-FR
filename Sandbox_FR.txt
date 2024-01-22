@@ -1,0 +1,17 @@
+Sandbox_FR = {
+    Sandbox_WeaponModifiers = "Modificateurs d'armes et bricolage",
+
+    Sandbox_WeaponModifiers_RangedWeaponsTinkerable = "Les armes à distance peuvent être bricolées",
+    Sandbox_WeaponModifiers_RangedWeaponsTinkerable_tooltip = "N'activez pas cette option si vous utilisez la liste réaliste."
+    Sandbox_WeaponModifiers_DynamicTinkerer = "Le trait de bricoleur est dynamique",
+    Sandbox_WeaponModifiers_DynamicTinkerer_tooltip = "Pour acquérir le trait, vous aurez besoin que la somme de vos niveaux de maintenance et de bricolage soit d'au moins 8, et d'avoir bricolé 15 modificateurs d'au moins une rareté épique.",
+    Sandbox_WeaponModifiers_TinkeringSkillXpMultiplier = "Multiplicateur d'XP de compétence de bricolage"
+
+    Sandbox_WeaponModifiers_TinkerCost = "Coût du bricolage",
+    Sandbox_WeaponModifiers_TinkerCost_tooltip = "Combien d'objets / quelle quantité d'un objet est consommé lors du bricolage.",
+    Sandbox_TinkerCost_value_option1 = "1",
+    Sandbox_TinkerCost_value_option2 = "2",
+    Sandbox_TinkerCost_value_option3 = "3",
+    Sandbox_TinkerCost_value_option4 = "4",
+
+}
