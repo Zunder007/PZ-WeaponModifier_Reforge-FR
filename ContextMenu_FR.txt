@@ -1,0 +1,4 @@
+ContextMenu_FR = {
+    ContextMenu_Tinker = "Bricoler",
+    ContextMenu_TinkerWith = "Bricoler avec",
+}
