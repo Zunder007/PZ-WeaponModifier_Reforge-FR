@@ -1,0 +1,4 @@
+UI_FR = {
+    UI_trait_tinkerer = "Bricoleur",
+    UI_trait_tinkererdesc = "Un bricolage plus rapide et de meilleur qualité.<br>+20 % de chances de ne pas consommer d'objets en bricolant.",
+}
