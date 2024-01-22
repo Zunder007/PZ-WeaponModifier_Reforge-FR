@@ -1,0 +1,8 @@
+ItemName_FR = {
+    ItemName_WeaponModifiers.BookTinkering1 = "Bricolage Vol. 1",
+	ItemName_WeaponModifiers.BookTinkering2 = "Bricolage Vol. 2",
+	ItemName_WeaponModifiers.BookTinkering3 = "Bricolage Vol. 3",
+	ItemName_WeaponModifiers.BookTinkering4 = "Bricolage Vol. 4",
+	ItemName_WeaponModifiers.BookTinkering5 = "Bricolage Vol. 5",
+	ItemName_WeaponModifiers.TinkeringMag = "Bricolage pour les idiots",
+}
